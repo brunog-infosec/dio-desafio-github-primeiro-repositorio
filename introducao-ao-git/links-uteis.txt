@@ -1,0 +1,5 @@
+## LINKS ÚTEIS:
+
+https://markdownguide.org/
+
+- Guia sobre a sintaxe básica do Markdown.
